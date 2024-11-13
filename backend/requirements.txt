@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+numpy
+scipy
+casadi
+xarray
+anytree
+sympy
+typing-extensions
+pandas
+pooch
+pybamm
